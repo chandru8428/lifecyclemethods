@@ -128,10 +128,10 @@ public class MainActivity extends AppCompatActivity {
 <img width="1919" height="1134" alt="Screenshot 2025-08-13 085758" src="https://github.com/user-attachments/assets/f1414b53-9c96-4a20-a0d5-cef2b4094a44" />
 
 #### 3.OnResume Executed:
-![resune](https://github.com/user-attachments/assets/e1ffa9fd-3601-48bf-9694-e9694ec0dc37)
+<img width="1579" height="933" alt="image" src="https://github.com/user-attachments/assets/b9b824d3-db63-489a-a49d-7eabfb0c3570" />
 
 #### 4.OnRestart Executed:
-<img width="1549" height="969" alt="image" src="https://github.com/user-attachments/assets/be96f807-430b-4485-9c2f-9e33f2a519e3" />
+<img width="1579" height="939" alt="image" src="https://github.com/user-attachments/assets/b47b42f8-839a-4da0-8867-64c8a6b04824" />
 
 
 5.OnStart Executed:
